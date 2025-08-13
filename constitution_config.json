@@ -3,14 +3,14 @@
         "bittensor": {
             "prompt_path": "topic_relevance_prompts/bittensor_prompt.txt",
             "verified_users": {
-                "twitter": "verified_users/twitter/crypto_target_accounts_july.csv"
+                "twitter": "verified_users/twitter/bittensor_target_accounts_august_followers.csv"
             },
             "weight": 0.0
         },
         "nuance_subnet": {
             "prompt_path": "topic_relevance_prompts/nuance_subnet_prompt.txt",
             "verified_users": {
-                "twitter": "verified_users/twitter/bittensor_target_accounts_july.csv"
+                "twitter": "verified_users/twitter/bittensor_target_accounts_august_followers.csv"
             },
             "weight": 1.0
         }
