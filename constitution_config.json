@@ -12,13 +12,13 @@
             "verified_users": {
                 "twitter": "verified_users/twitter/bittensor_target_accounts_august_followers.csv"
             },
-            "weight": 0.8
+            "weight": 0.6
         },
         "nuance_sharing": {
             "verified_users": {
                 "twitter": "verified_users/twitter/bittensor_target_accounts_august_followers.csv"
             },
-            "weight": 0.2
+            "weight": 0.4
         }
     },
     "platforms": {
