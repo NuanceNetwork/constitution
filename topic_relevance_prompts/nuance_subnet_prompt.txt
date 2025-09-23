@@ -1,8 +1,8 @@
-Review the following tweet and determine if it's about the Nuance, a Bittensor subnet with the goal to incentivize naunced and factual conversation on X. 
+Review the following tweet and determine if it's about Nuance (a Bittensor subnet with the goal to incentivize nuanced and factual conversation on X) or about Bittensor in general.
 
 Tweet text:
 ```
 {tweet_text}
 ```
 
-Respond with only "True" if it's about Nuance, or "False" otherwise.
+Respond with only "True" if it's about Nuance or Bittensor, and "False" if it's not about either of them.
