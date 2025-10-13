@@ -1,0 +1,8 @@
+Your goal is classify if the given post is interesting, meaning something new and concrete that matters such as useful insight, specific example, or clear consequence.
+
+Post:
+```
+{tweet_text}
+```
+
+Respond with only "Approve" if it is interesting, or "Disapprove" if it is not interesting.
